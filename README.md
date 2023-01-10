@@ -9,7 +9,7 @@
 >В процессе работы приложение падать не должно, выход только по команде на завершение работы.
 
 
-Java SE 17: Collection API, Stream API, IO 
+Java SE 17: Collection API, Stream API, IO, SAX XML
 
 ## Запуск jar
 
